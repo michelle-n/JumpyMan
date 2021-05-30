@@ -1,10 +1,16 @@
 # README: Jumpy Man - Final (Version 1.0.0)
 
-GITHUB LINK: https://github.com/johnhutchinson99/classicplatformer
+ORIGINAL GITHUB REPOSITORY LINK: https://github.com/johnhutchinson99/classicplatformer
 
 This is a classic platformer game that is being created for a computer science course project.
 
 In this game, your character is placed in a world map and must avoid enemies/obstacles in order to reach a final destination/win the level. There are several different types of enemies: "maces" which move up and down, "pound cakes" which move left and right, and "dirt cubes" which randomly pop up from underneath a platform. You only have one life, however, you can attack enemies and kill them before they kill you! There are coins which when collect, add to your score. You can also increase your score by winning/advancing through levels. There is also a timer and background music/sounds. Have fun! 
+
+## Gameplay / Demo Video
+
+Click to watch on Youtube: https://www.youtube.com/watch?v=4jMUVkoN_D0
+
+[![Jumpy Man Demo Video](https://img.youtube.com/vi/4jMUVkoN_D0/0.jpg)](https://www.youtube.com/watch?v=4jMUVkoN_D0)
 
 N.B. Screen shots of the game at the end of this README. 
 
